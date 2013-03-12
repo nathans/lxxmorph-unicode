@@ -7,6 +7,8 @@ The texts differ from the originals in the following ways:
   3. The files are now whitespace-separated rather than fixed-width.
   4. The second column, containing the POS and parsing information, has had its
      whitespace replaced with hyphens in accordance with the above.
+  5. Combined the split files of Genesis, Psalms, Isaiah, Jeremiah, and
+     Ezekiel, and renumbered all the files.
 
 Please note that the same terms of use apply to this unicode version as to the 
 original - see the 0-readme.txt and 0-user-declaration.txt files for details.
